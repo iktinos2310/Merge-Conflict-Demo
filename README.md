@@ -1,1 +1,1 @@
-# Merge-Conflict-Demo
+# mergeConflictDemo
